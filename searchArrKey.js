@@ -3,6 +3,7 @@ export const searchArrKey = {
     return {
       searchArrKey: {},
       columns: [],
+      a:1,
     };
   },
   methods: {
